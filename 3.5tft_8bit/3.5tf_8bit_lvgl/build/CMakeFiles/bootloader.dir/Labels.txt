@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+F:/3.5TFT/3.5tf_8bit_lvgl/build/CMakeFiles/bootloader
+F:/3.5TFT/3.5tf_8bit_lvgl/build/CMakeFiles/bootloader.rule
+F:/3.5TFT/3.5tf_8bit_lvgl/build/CMakeFiles/bootloader-complete.rule
+F:/3.5TFT/3.5tf_8bit_lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+F:/3.5TFT/3.5tf_8bit_lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+F:/3.5TFT/3.5tf_8bit_lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+F:/3.5TFT/3.5tf_8bit_lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+F:/3.5TFT/3.5tf_8bit_lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+F:/3.5TFT/3.5tf_8bit_lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+F:/3.5TFT/3.5tf_8bit_lvgl/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
