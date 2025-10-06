@@ -1,4 +1,4 @@
-#ESP32S3N8R8三种方式驱动3.5寸触摸屏且运行LVGL
+ESP32S3N8R8三种方式驱动3.5寸触摸屏且运行LVGL
 【立创esp32s3n8r8开发板使用spi/8080/16位并口在3.5寸触摸屏运行lvgl性能对比】 https://www.bilibili.com/video/BV1jYHczKExs/?share_source=copy_web&vd_source=bc7a46888bfad0526d566d36e633de14)
 
 ## 项目介绍
